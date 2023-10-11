@@ -6,68 +6,113 @@ _<sup>Copied from the original uEssentials Repository</sup>_
 **Argument syntax: ```<optional> [required]```**
 
 ## Quick links:
-[A](#a)
+**[A](#a)**
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| [Ascend](#ascend) |  |
+[Ascend](#ascend)
+<br><br>
 
-[B](#b)
+**[B](#b)**
+
 [Back](#back)  |  [Boom](#boom)  
+<br><br>
 
-[C](#c)
+**[C](#c)**
+
 [Clear](#clear)  |  [Clearinventory](#clearinventory)  |  [Createkit](#createkit)  
+<br><br>
 
-[D](#d)
- [Deletekit](#deletekit)  |  [Delwarp](#delwarp)  |  [Descend](#descend)  |  [Dropkit](#dropkit)  
+**[D](#d)**
 
-[E](#e)
+[Deletekit](#deletekit)  |  [Delwarp](#delwarp)  |  [Descend](#descend)  |  [Dropkit](#dropkit)  
+<br><br>
+
+**[E](#e)**
+
 [Editkit](#editkit)  |  [Essentials](#essentials)  |  [Experience](#experience)  
+<br><br>
 
-[F](#f)
+**[F](#f)**
+
+
 [Freeze](#freeze)  |  [Home](#home)
+<br><br>
 
-[I](#i)
+**[I](#i)**
+
+
 [Item](#item)  |  [Itemfeatures](#itemfeatures)  |  [Iteminfo](#iteminfo)  
+<br><br>
 
-[J](#j)
+**[J](#j)**
+
+
 [Jump](#jump)  
+<br><br>
 
-[K](#k)
+**[K](#k)**
+
+
 [Kickall](#kickall)  |  [Kill](#kill)  |  [Killanimals](#killanimals)  |  [Killzombies](#killzombies)  |  [Kit](#kit)  |  [Kits](#kits)  |  
+<br><br>
 
-[M](#m)
+**[M](#m)**
+
+
 [Maxskills](#maxskills)  
+<br><br>
 
-[O](#o)
+**[O](#o)**
+
+
 [Online](#online)  
+<br><br>
 
-[P](#p)
+**[P](#p)**
+
+
 [Ping](#ping)  |  [Poll](#poll)  |  [Position](#position)  |  [Pvp](#pvp)  
+<br><br>
 
-[R](#r)
-[Refuelgenerator](#refuelgenerator)  |  [Refuelvehicle](#refuelvehicle)  |  [Repair](#repair)  |  [Repairvehicle](#repairvehicle)  |  [Reply](#reply)  |  [Reputation](#reputation)  
-[Requesturl](#requesturl)  |  [Resetplayer](#resetplayer)  |  [Respawnanimals](#respawnanimals)  |  [Respawnitems](#respawnitems)  |  [Respawnvehicles](#respawnvehicles)  | [Respawnzombies](#respawnzombies)  
+**[R](#r)**
 
-[S](#s)
+
+[Refuelgenerator](#refuelgenerator)  |  [Refuelvehicle](#refuelvehicle)  |  [Repair](#repair)  |  [Repairvehicle](#repairvehicle)  |  [Reply](#reply)  |  [Reputation](#reputation)  |  [Requesturl](#requesturl)  |  [Resetplayer](#resetplayer)  |  [Respawnanimals](#respawnanimals)  |  [Respawnitems](#respawnitems)  |  [Respawnvehicles](#respawnvehicles)  | [Respawnzombies](#respawnzombies)  
+<br><br>
+
+**[S](#s)**
+
+
 [Setwarp](#setwarp)  |  [Shutdown](#shutdown)  |  [Skill](#skill)  |  [Spawnitem](#spawnitem)  |  [Spawnvehicle](#spawnvehicle)  |  [Spypm](#spypm)  |  [Sudo](#sudo)  |  [Suicide](#suicide)  |  [Systemtime](#systemtime)  
+<br><br>
 
-[T](#t)
+**[T](#t)**
+
+
 [Tell](#tell)  |  [Tellraw](#tellraw)  |  [Tp](#tp)  |  [Tpa](#tpa)  |  [Tpall](#tpall)  |  [Tps](#tps)  |  
+<br><br>
 
-[U](#u)
+**[U](#u)**
+
 [Unfreeze](#unfreeze)
+<br>
+<br>
 
-[V](#v)
+**[V](#v)**
+
+
 [Vehicle](#vehicle)  |  [Vehiclefeatures](#vehiclefeatures)  |  [Vote](#vote)  
+<br>
+<br>
 
-[W](#w)
+**[W](#w)**
+
 [Warp](#warp)  |  [Warps](#warps)
-
-
+<br>
+<br>
 
 
 ## Commands
+<br>
 
 ### A
 --- 
