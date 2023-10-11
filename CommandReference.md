@@ -6,62 +6,62 @@ _<sup>Copied from the original uEssentials Repository</sup>_
 **Argument syntax: ```<optional> [required]```**
 
 ## Quick links:
-[A](#A)
+[A](#a)
 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | [Ascend](#ascend) |  |
 
-[B](#B)
+[B](#b)
 [Back](#back)  |  [Boom](#boom)  
 
-[C](#C)
+[C](#c)
 [Clear](#clear)  |  [Clearinventory](#clearinventory)  |  [Createkit](#createkit)  
 
-[D](#D)
+[D](#d)
  [Deletekit](#deletekit)  |  [Delwarp](#delwarp)  |  [Descend](#descend)  |  [Dropkit](#dropkit)  
 
-[E](#E)
+[E](#e)
 [Editkit](#editkit)  |  [Essentials](#essentials)  |  [Experience](#experience)  
 
-[F](#F)
+[F](#f)
 [Freeze](#freeze)  |  [Home](#home)
 
-[I](#I)
+[I](#i)
 [Item](#item)  |  [Itemfeatures](#itemfeatures)  |  [Iteminfo](#iteminfo)  
 
-[J](#J)
+[J](#j)
 [Jump](#jump)  
 
-[K](#K)
+[K](#k)
 [Kickall](#kickall)  |  [Kill](#kill)  |  [Killanimals](#killanimals)  |  [Killzombies](#killzombies)  |  [Kit](#kit)  |  [Kits](#kits)  |  
 
-[M](#M)
+[M](#m)
 [Maxskills](#maxskills)  
 
-[O](#O)
+[O](#o)
 [Online](#online)  
 
-[P](#P)
+[P](#p)
 [Ping](#ping)  |  [Poll](#poll)  |  [Position](#position)  |  [Pvp](#pvp)  
 
-[R](#R)
+[R](#r)
 [Refuelgenerator](#refuelgenerator)  |  [Refuelvehicle](#refuelvehicle)  |  [Repair](#repair)  |  [Repairvehicle](#repairvehicle)  |  [Reply](#reply)  |  [Reputation](#reputation)  
 [Requesturl](#requesturl)  |  [Resetplayer](#resetplayer)  |  [Respawnanimals](#respawnanimals)  |  [Respawnitems](#respawnitems)  |  [Respawnvehicles](#respawnvehicles)  | [Respawnzombies](#respawnzombies)  
 
-[S](#S)
+[S](#s)
 [Setwarp](#setwarp)  |  [Shutdown](#shutdown)  |  [Skill](#skill)  |  [Spawnitem](#spawnitem)  |  [Spawnvehicle](#spawnvehicle)  |  [Spypm](#spypm)  |  [Sudo](#sudo)  |  [Suicide](#suicide)  |  [Systemtime](#systemtime)  
 
-[T](#T)
+[T](#t)
 [Tell](#tell)  |  [Tellraw](#tellraw)  |  [Tp](#tp)  |  [Tpa](#tpa)  |  [Tpall](#tpall)  |  [Tps](#tps)  |  
 
-[U](#U)
+[U](#u)
 [Unfreeze](#unfreeze)
 
-[V](#V)
+[V](#v)
 [Vehicle](#vehicle)  |  [Vehiclefeatures](#vehiclefeatures)  |  [Vote](#vote)  
 
-[W](#W)
+[W](#w)
 [Warp](#warp)  |  [Warps](#warps)
 
 
