@@ -1,4 +1,7 @@
-_Copied from the old uEssentials Repository Wiki._
+_Copied from the old uEssentials Repository Wiki._<br>
+_No wiki setup for this repository yet so I am using links to redirect users to each .md instead_<br><br>
+<b>[\<\< Back to 'readme.md'](https://github.com/TH3AL3X/uEssentials/blob/master/README.md)</b>
+
 ## General Commands
 | Overall					|  
 | :------					| -------
@@ -66,4 +69,5 @@ _Copied from the old uEssentials Repository Wiki._
   essentials.keepskill.[\<skill\>](https://gist.githubusercontent.com/leonardosnt/195c0b196707c0977fdd/raw/780a1bce02b660ed2b51e24fb03959e1cfdbe54c/gistfile1.txt)	| Prevents player from losing a specific skill.
   essentials.keepskill.all.\<%\>	| Keep \<percentage\> of all skills, when player die.
   essentials.keepskill.[\<skill\>](https://gist.githubusercontent.com/leonardosnt/195c0b196707c0977fdd/raw/780a1bce02b660ed2b51e24fb03959e1cfdbe54c/gistfile1.txt).\<%\>	| Keep \<percentage\> of a specific skill, when player die.
-  
+
+[\<\< Back to 'readme.md'](https://github.com/TH3AL3X/uEssentials/blob/master/README.md)
